@@ -1,0 +1,10 @@
+1. Arduino UNO/NANO=1 Pcs
+2. IR Sensor MH-Seriese=3 Pcs
+3. Servo Motor 3 Pcs
+4. SD Card Reader 1 Pcs
+5. Memory Card 8 GB 1Pcs
+6. Speaker 1 Pcs
+7. Sound Amplifier module 1 Pcs
+8. Battery 3.7V 2 Pcs
+9. Battery Charging module+ Adapter=1 Pcs
+10. Connecting Jumper as per Need.
